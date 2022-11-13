@@ -1,0 +1,5 @@
+print("Abboskxan")
+print(7*85)
+print("Abbos bugun", 5*5,"ga kiradi")
+print('5 karra 5 nechchi')
+print(7*7,5/8,4/52)
