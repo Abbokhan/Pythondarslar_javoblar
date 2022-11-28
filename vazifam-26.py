@@ -23,7 +23,7 @@ while True:
 while buyurtmalar:
     buyurtma=buyurtmalar.pop()
     if buyurtma in e_bozor.keys():
-        narh=e_bozor[buyurtmakoka]
+        narh=e_bozor[buyurtma]
         print(f"Bizda {buyurtma} mavjud, uning narhi {narh} so'm!")
     else:
         print(f"Bizda {buyurtma} mavjud emas!")
